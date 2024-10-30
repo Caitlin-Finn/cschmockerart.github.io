@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "C Schmocker Art",
+  "name": "C Schmocker Art",
+  "homepage": "https://caitlin-finn.github.io/cschmockerart.github.io/",
   "icons": [
     {
       "src": "favicon.ico",
